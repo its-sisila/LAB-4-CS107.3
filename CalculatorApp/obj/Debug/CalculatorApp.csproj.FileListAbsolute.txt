@@ -1,0 +1,5 @@
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\CalculatorApp\obj\Debug\CalculatorApp.Form1.resources
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
