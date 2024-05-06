@@ -1,0 +1,20 @@
+C:\NSBM - Academic\Year 01 Semester 03\C#\C# Final Project\LAB-04\obj\Debug\LAB-04.csproj.AssemblyReference.cache
+C:\NSBM - Academic\Year 01 Semester 03\C#\C# Final Project\LAB-04\obj\Debug\LAB_04.Form1.resources
+C:\NSBM - Academic\Year 01 Semester 03\C#\C# Final Project\LAB-04\obj\Debug\LAB_04.Properties.Resources.resources
+C:\NSBM - Academic\Year 01 Semester 03\C#\C# Final Project\LAB-04\obj\Debug\LAB-04.csproj.GenerateResource.cache
+C:\NSBM - Academic\Year 01 Semester 03\C#\C# Final Project\LAB-04\obj\Debug\LAB-04.csproj.CoreCompileInputs.cache
+C:\NSBM - Academic\Year 01 Semester 03\C#\C# Final Project\LAB-04\bin\Debug\LAB-04.exe.config
+C:\NSBM - Academic\Year 01 Semester 03\C#\C# Final Project\LAB-04\bin\Debug\LAB-04.exe
+C:\NSBM - Academic\Year 01 Semester 03\C#\C# Final Project\LAB-04\bin\Debug\LAB-04.pdb
+C:\NSBM - Academic\Year 01 Semester 03\C#\C# Final Project\LAB-04\obj\Debug\LAB-04.exe
+C:\NSBM - Academic\Year 01 Semester 03\C#\C# Final Project\LAB-04\obj\Debug\LAB-04.pdb
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\LAB-04\bin\Debug\LAB-04.exe.config
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\LAB-04\bin\Debug\LAB-04.exe
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\LAB-04\bin\Debug\LAB-04.pdb
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\LAB-04\obj\Debug\LAB-04.csproj.AssemblyReference.cache
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\LAB-04\obj\Debug\LAB_04.Form1.resources
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\LAB-04\obj\Debug\LAB_04.Properties.Resources.resources
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\LAB-04\obj\Debug\LAB-04.csproj.GenerateResource.cache
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\LAB-04\obj\Debug\LAB-04.csproj.CoreCompileInputs.cache
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\LAB-04\obj\Debug\LAB-04.exe
+C:\NSBM - Academic\Year 01 Semester 03\C#\WFA\LAB-04\obj\Debug\LAB-04.pdb
